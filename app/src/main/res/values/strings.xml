@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Passwords&amp;Notes Manager</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click To Register</string>
+    <string name="click_to_register">Click To Login</string>
+    <string name="pass_notes_man"><![CDATA[Notes & Passwords Manager]]></string>
+    <string name="logout">Logout</string>
+    <string name="Hello">Hello,</string>
+    <string name="user_details">user_details</string>
+    <string name="Notes">Notes</string>
+    <string name="User">Username</string>
+    <string name="Passwords">Passwords\n</string>
+    <string name="full_name">Full Name</string>
+    <string name="title_activity_notes">Notes</string>
+    <string name="title_activity_passwords">Passwords</string>
+</resources>
